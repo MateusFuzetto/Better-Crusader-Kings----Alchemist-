@@ -1,0 +1,18 @@
+﻿l_english:
+ #Use Poison in Murder
+ use_potions_in_scheme_decision:0 "Usa veneno en esquemas"
+ use_potions_in_scheme_decision_desc:0 "¿Por qué debería esperar? ¡Cuando pueda matar lentamente entonces!"
+ use_potions_in_scheme_decision_tooltip:0 "Compra algunos venenos y haz algunas pociones y úsalas en tus planes."
+ use_potions_in_scheme_decision_confirm:0 "¡Es hora de usar lo que había aprendido!"
+ use_potions_in_scheme_decision_missing_scheme:0 "Necesitas tener al menos #V 1 #! activo [hostile_scheme|E]"
+ use_potions_in_scheme_decision_missing_scheme_effect:0 "Tu activo [schemes|E] obtendrá progreso al instante"
+ use_potions_in_scheme_decision_msg:0 "Su [schemes|E] progreso!"
+
+ #Create a miracle potion
+ create_a_miracle_potion_decision:0 "Crea una poción milagrosa"
+ create_a_miracle_potion_decision_desc:0 "Es hora de poner mis conocimientos en alquimia para salvar mi propia vida."
+ create_a_miracle_potion_decision_tooltip:0 "A través de una poción creada por mí recuperaré mi salud."
+ create_a_miracle_potion_decision_confirm:0 "Es hora de volver a estar sano"
+ create_a_miracle_potion_decision_missing_scheme:0 "Necesitas tener al menos una enfermedad."
+ create_a_miracle_potion_decision_missing_scheme_effect:0 "Serás curado de todas tus enfermedades."
+ create_a_miracle_potion_decision_msg:0 "Te sientes rejuvenecido"

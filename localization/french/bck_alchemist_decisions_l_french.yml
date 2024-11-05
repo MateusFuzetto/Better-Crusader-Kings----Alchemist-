@@ -1,0 +1,18 @@
+﻿l_english:
+ #Use Poison in Murder
+ use_potions_in_scheme_decision:0 "Utiliser du poison sur les projets"
+ use_potions_in_scheme_decision_desc:0 "Pourquoi devrais-je attendre ? Quand je pourrai tuer lentement alors !"
+ use_potions_in_scheme_decision_tooltip:0 "Achetez des poisons et préparez des potions et utilisez-les dans vos projets."
+ use_potions_in_scheme_decision_confirm:0 "Il est temps d'utiliser ce que j'ai appris !"
+ use_potions_in_scheme_decision_missing_scheme:0 "Vous devez avoir au moins #V 1 #! actif [hostile_scheme|E]"
+ use_potions_in_scheme_decision_missing_scheme_effect:0 "Votre actif [schemes|E] progressera instantanément"
+ use_potions_in_scheme_decision_msg:0 "Ton [schemes|E] progrès!"
+
+ #Create a miracle potion
+ create_a_miracle_potion_decision:0 "Créez une potion miracle"
+ create_a_miracle_potion_decision_desc:0 "Il est temps de mettre mes connaissances en alchimie pour sauver ma propre vie"
+ create_a_miracle_potion_decision_tooltip:0 "Through a potion created by me, i will recover my healthy"
+ create_a_miracle_potion_decision_confirm:0 "Il est temps d'être à nouveau en bonne santé"
+ create_a_miracle_potion_decision_missing_scheme:0 "Vous devez avoir au moins une maladie"
+ create_a_miracle_potion_decision_missing_scheme_effect:0 "Vous serez guéri de toutes vos maladies"
+ create_a_miracle_potion_decision_msg:0 "Vous vous sentez rajeuni"

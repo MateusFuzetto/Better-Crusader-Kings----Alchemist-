@@ -1,0 +1,14 @@
+﻿l_english:
+ # Alchemist Tree
+ alchemist_name:0 "Алхимик"
+ alchemist_perk_name:0 "Алхимик"
+
+ studing_potions_perk_name:0 "Изучение зелий"
+ studing_herbs_perk_name:0 "Изучение трав"
+ basic_alchemy_perk_name:0 "Базовая алхимия"
+ studing_poisons_perk_name:0 "Изучение ядов"
+ studing_poisons_perk_description:0 "Позволяет принять решение использовать яд в схемах"
+ herb_gardens_perk_name:0 "Травяные сады"
+ herbs_rerserve_perk_adventurer_name:0 "Заповедник трав"
+ the_secret_of_life_perk_name:0 "Секрет жизни"
+ making_fools_gold_perk_name:0 "Делаем золото дураков"

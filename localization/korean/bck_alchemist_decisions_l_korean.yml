@@ -1,0 +1,18 @@
+﻿l_english:
+ #Use Poison in Murder
+ use_potions_in_scheme_decision:0 "계획에 독을 사용하십시오"
+ use_potions_in_scheme_decision_desc:0 "내가 왜 기다리겠어요? 언제 천천히 죽일 수 있나요?"
+ use_potions_in_scheme_decision_tooltip:0 "독약을 사서 물약을 만들어서 계획에 사용하세요"
+ use_potions_in_scheme_decision_confirm:0 "이제 제가 배운 것을 활용해 볼 차례입니다!"
+ use_potions_in_scheme_decision_missing_scheme:0 "당신은 적어도 가지고 있어야합니다 #V 1 #! 활동적인 [hostile_scheme|E]"
+ use_potions_in_scheme_decision_missing_scheme_effect:0 "당신의 활동적인 [schemes|E] 즉시 발전할 것이다"
+ use_potions_in_scheme_decision_msg:0 "당신의 [schemes|E] 진전!"
+
+ #Create a miracle potion
+ create_a_miracle_potion_decision:0 "기적의 물약을 만들어 보세요"
+ create_a_miracle_potion_decision_desc:0 "내 생명을 구하기 위해 내 지식을 연금술에 적용할 때입니다."
+ create_a_miracle_potion_decision_tooltip:0 "내가 만든 포션으로 건강을 회복하겠습니다"
+ create_a_miracle_potion_decision_confirm:0 "이제 다시 건강해질 시간이에요"
+ create_a_miracle_potion_decision_missing_scheme:0 "적어도 하나의 질병을 가지고 있어야 합니다."
+ create_a_miracle_potion_decision_missing_scheme_effect:0 "네 모든 병이 나을 것이다."
+ create_a_miracle_potion_decision_msg:0 "당신은 활력을 느낀다"
