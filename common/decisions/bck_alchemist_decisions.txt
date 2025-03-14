@@ -14,7 +14,7 @@
     cooldown = { days = 180 }
 
     is_shown = {
-        has_perk = studing_poisons_perk
+        has_perk = potion_master_perk
     }
 
     is_valid_showing_failures_only = {
@@ -38,7 +38,7 @@
                 left_icon = root
 
                 every_scheme = {
-                    add_scheme_progress = 60
+                    add_scheme_progress = 90
                 }
             }
         }
@@ -131,7 +131,6 @@ create_a_miracle_potion_decision = {
                 remove_trait = dysentery
                 remove_trait = ergotism
                 remove_trait = infirm
-                remove_trait = depressed
                 remove_trait = depressed_1
             }
         }

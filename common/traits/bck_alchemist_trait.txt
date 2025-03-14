@@ -1,6 +1,4 @@
-﻿## LIFESTYLES BCK ###################################
-
-alchemist = {
+﻿alchemist = {
     category = lifestyle
     name = trait_alchemist
 

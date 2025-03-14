@@ -72,7 +72,7 @@ basic_alchemy_perk = {
 	}
 }
 
-studing_poisons_perk = {
+potion_master_perk = {
 	lifestyle = intrigue_lifestyle
 	tree = alchemist
 	position = { 0 2 }
@@ -81,7 +81,7 @@ studing_poisons_perk = {
 	parent = basic_alchemy_perk
 
 	effect = {
-		custom_tooltip = studing_poisons_perk_description
+		custom_tooltip = potion_master_perk_description
 	}
 }
 
@@ -125,7 +125,7 @@ the_secret_of_life_perk = {
 	position = { 1 3 }
 	icon = node_intrigue
 
-	parent = studing_poisons_perk
+	parent = potion_master_perk
 	parent = herb_gardens_perk
 
 	character_modifier = {

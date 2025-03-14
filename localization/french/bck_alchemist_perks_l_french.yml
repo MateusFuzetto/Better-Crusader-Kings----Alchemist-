@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_french:
  # Alchemist Tree
  alchemist_name:0 "Alchimiste"
  alchemist_perk_name:0 "Alchimiste"
@@ -6,8 +6,8 @@
  studing_potions_perk_name:0 "Étudier les potions"
  studing_herbs_perk_name:0 "Étudier les herbes"
  basic_alchemy_perk_name:0 "Alchimie de base"
- studing_poisons_perk_name:0 "Étudier les poisons"
- studing_poisons_perk_description:0 "Permet la décision d'utiliser du poison sur les projets"
+ potion_master_perk_name:0 "Maître des Potions"
+ potion_master_perk_description:0 "Permet de prendre la décision d'utiliser des potions dans les complots"
  herb_gardens_perk_name:0 "Jardins d'herbes aromatiques"
  herbs_rerserve_perk_adventurer_name:0 "Réserve d'herbes"
  the_secret_of_life_perk_name:0 "Le secret de la vie"

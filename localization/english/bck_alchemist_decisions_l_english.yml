@@ -1,5 +1,5 @@
 ﻿l_english:
- #Use Poison in Murder
+ #Use Potions on Schemes
  use_potions_in_scheme_decision:0 "Use Potions on Schemes"
  use_potions_in_scheme_decision_desc:0 "Why would i a wait? When i can use my potions!"
  use_potions_in_scheme_decision_tooltip:0 "Buy some ingredients and make some potions and use then on your schemes"
